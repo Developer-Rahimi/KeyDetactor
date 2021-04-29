@@ -1,0 +1,3 @@
+include ':KeyDetector'
+include ':app'
+rootProject.name = "TestApplication"
